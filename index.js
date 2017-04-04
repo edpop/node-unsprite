@@ -55,13 +55,3 @@ module.exports = function (srcJSONPath, srcImgPath, destImgDir, callback) {
 				});
 		});
 };
-
-/*Jimp.read(pngPath).then(function (image) {
-	image.crop(62, 64, 31, 31);
-	image.write(destPath, function (err) {
-		if (err) throw err;
-
-		console.log('OK!');
-	});
-});
-*/
