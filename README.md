@@ -2,6 +2,8 @@
 
 Unsprite your sprite!
 
+Get the source images from sprite files __json__+__png__.
+
 
 ### Usage
 ```bash
