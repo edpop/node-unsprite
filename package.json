@@ -2,22 +2,11 @@
   "name": "unsprite",
   "description": "Unsprite your sprite!",
   "version": "0.1.1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Eduard Popov",
+  "license": "MIT",
   "keywords": [
     "sprite"
   ],
-  "author": "Eduard Popov",
-  "license": "MIT",
-  "dependencies": {
-    "jimp": "^0.2.27"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/edpop/node-unsprite.git"
@@ -25,5 +14,14 @@
   "bugs": {
     "url": "https://github.com/edpop/node-unsprite/issues"
   },
-  "homepage": "https://github.com/edpop/node-unsprite#readme"
+  "homepage": "https://github.com/edpop/node-unsprite#readme",
+  "files": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jimp": "^0.2.27"
+  },
+  "devDependencies": {}
 }
