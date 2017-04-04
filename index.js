@@ -17,7 +17,7 @@ function readJSON (path) {
 				}
 				resolve(data);
 			}
-		})
+		});
 	});
 }
 
